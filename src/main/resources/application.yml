@@ -1,0 +1,16 @@
+#配置国际化
+spring:
+  messages:
+    basename: I18n.login
+#配置禁用thymeleaf缓存
+  thymeleaf:
+    cache: false
+#配置日期格式化
+  mvc:
+    format:
+      date: yyyy-MM-dd
+#配置自定义异常信息显示
+server:
+  error:
+    include-exception: true
+    include-message: always

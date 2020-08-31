@@ -1,0 +1,9 @@
+2020-08-29 09:11:35.029  INFO 4932 --- [main] .s.SpringbootIntegrationApplicationTests : Starting SpringbootIntegrationApplicationTests on DESKTOP-9GAAVES with PID 4932 (started by wf in D:\IDEXiangMu\springboot_integration)
+2020-08-29 09:11:35.031  INFO 4932 --- [main] .s.SpringbootIntegrationApplicationTests : No active profile set, falling back to default profiles: default
+2020-08-29 09:11:36.698  INFO 4932 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-29 09:11:36.846  INFO 4932 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-08-29 09:11:37.156  INFO 4932 --- [main] .s.SpringbootIntegrationApplicationTests : Started SpringbootIntegrationApplicationTests in 2.725 seconds (JVM running for 4.46)
+2020-08-29 09:11:37.483  INFO 4932 --- [main] .s.SpringbootIntegrationApplicationTests : 这是info
+2020-08-29 09:11:37.483  WARN 4932 --- [main] .s.SpringbootIntegrationApplicationTests : 这是warn
+2020-08-29 09:11:37.484 ERROR 4932 --- [main] .s.SpringbootIntegrationApplicationTests : 这是error
+2020-08-29 09:11:37.513  INFO 4932 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

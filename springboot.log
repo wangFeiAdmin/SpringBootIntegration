@@ -1,0 +1,9 @@
+[1;35m2020-08-29 09:35:09[0;39m  [INFO]  [34morg.springframework.boot.StartupInfoLogger:55[0;39m  : Starting SpringbootIntegrationApplicationTests on DESKTOP-9GAAVES with PID 13420 (started by wf in D:\IDEXiangMu\springboot_integration) 
+[1;35m2020-08-29 09:35:09[0;39m  [INFO]  [34morg.springframework.boot.SpringApplication:651[0;39m  : No active profile set, falling back to default profiles: default 
+[1;35m2020-08-29 09:35:11[0;39m  [INFO]  [34morg.springframework.scheduling.concurrent.ExecutorConfigurationSupport:181[0;39m  : Initializing ExecutorService 'applicationTaskExecutor' 
+[1;35m2020-08-29 09:35:11[0;39m  [INFO]  [34morg.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:58[0;39m  : Adding welcome page template: index 
+[1;35m2020-08-29 09:35:12[0;39m  [INFO]  [34morg.springframework.boot.StartupInfoLogger:61[0;39m  : Started SpringbootIntegrationApplicationTests in 2.667 seconds (JVM running for 4.244) 
+[1;35m2020-08-29 09:35:12[0;39m  [INFO]  [34mcom.wf.springboot_integration.SpringbootIntegrationApplicationTests:19[0;39m  : 这是info 
+[1;35m2020-08-29 09:35:12[0;39m  [WARN]  [31mcom.wf.springboot_integration.SpringbootIntegrationApplicationTests:20[0;39m  : 这是warn 
+[1;35m2020-08-29 09:35:12[0;39m  [ERROR]  [1;31mcom.wf.springboot_integration.SpringbootIntegrationApplicationTests:21[0;39m  : 这是error 
+[1;35m2020-08-29 09:35:12[0;39m  [INFO]  [34morg.springframework.scheduling.concurrent.ExecutorConfigurationSupport:218[0;39m  : Shutting down ExecutorService 'applicationTaskExecutor' 

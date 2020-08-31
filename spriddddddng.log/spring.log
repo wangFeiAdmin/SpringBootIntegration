@@ -1,0 +1,9 @@
+2020-08-29 09:12:43.861  INFO 15884 --- [main] .s.SpringbootIntegrationApplicationTests : Starting SpringbootIntegrationApplicationTests on DESKTOP-9GAAVES with PID 15884 (started by wf in D:\IDEXiangMu\springboot_integration)
+2020-08-29 09:12:43.864  INFO 15884 --- [main] .s.SpringbootIntegrationApplicationTests : No active profile set, falling back to default profiles: default
+2020-08-29 09:12:45.655  INFO 15884 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-29 09:12:45.800  INFO 15884 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-08-29 09:12:46.125  INFO 15884 --- [main] .s.SpringbootIntegrationApplicationTests : Started SpringbootIntegrationApplicationTests in 2.821 seconds (JVM running for 4.561)
+2020-08-29 09:12:46.406  INFO 15884 --- [main] .s.SpringbootIntegrationApplicationTests : 这是info
+2020-08-29 09:12:46.406  WARN 15884 --- [main] .s.SpringbootIntegrationApplicationTests : 这是warn
+2020-08-29 09:12:46.406 ERROR 15884 --- [main] .s.SpringbootIntegrationApplicationTests : 这是error
+2020-08-29 09:12:46.435  INFO 15884 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
